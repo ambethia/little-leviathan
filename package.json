@@ -1,0 +1,18 @@
+{
+  "name": "little-leviathan",
+  "version": "1.0.0",
+  "description": "The Little Leviathan",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "ambethia/little-leviathan",
+  "keywords": [
+    "game",
+    "js13k"
+  ],
+  "license" : "CC-BY-NC-ND-4.0",
+  "author": "Jason L Perry",
+  "homepage": "https://github.com/ambethia/little-leviathan#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
